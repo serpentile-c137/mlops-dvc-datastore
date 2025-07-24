@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /var/folders/_z/r8311yj15_9cb_msx33clnvm0000gn/T/mlops-dvc-datastore
