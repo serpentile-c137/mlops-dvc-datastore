@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = localremote
 ['remote "myremote"']
     url = /var/folders/_z/r8311yj15_9cb_msx33clnvm0000gn/T/mlops-dvc-datastore
+['remote "localremote"']
+    url = /Users/shardulgore/Documents/Projects/MLOPS/data
